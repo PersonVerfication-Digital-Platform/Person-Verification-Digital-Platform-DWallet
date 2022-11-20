@@ -42,4 +42,12 @@ verification purposes</h6>
 
 
 
+<details>
+<summary>📃 Environment Variables</summary>
+  <ul>
+  <li>REACT_APP_SECRET_KEY= {key for decrypting hashed DID}</li>
+  <li>REACT_APP_SECRET= {secret key used to verify the validity of DID}</li>
+
+  </ul>
+</details>
 
