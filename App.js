@@ -1,3 +1,8 @@
-import Providers from './frontend/AppWithProviders';
+import React from "react";
+import Navigator from "./MyStack";
 
-export default Providers;
+const App = () => {
+  return <Navigator />;
+};
+
+export default App;
