@@ -11,7 +11,7 @@
 <h6>The mobile app will be used to store digital id into blockchain and to retrieve digital id from blockchain for 
 verification purposes</h6>
 <h6>Current we only focusing on ios development</h6>
-<h6>check branch "final-1" for most recent changes</h6>
+<h6>Checkout the mobile app here => https://github.com/PersonVerfication-Digital-Platform/Person-Verification-Digital-Platform-DWallet/releases/tag/v1.0</h6>
 
 </p>
 
